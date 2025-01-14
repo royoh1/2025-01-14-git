@@ -1,2 +1,5 @@
 # 2025-01-14-git
-- Favorite food: pizzA
+
+- My favorite food is pizza 
+
+- a conflict arrives when you edit the same file in the same place
