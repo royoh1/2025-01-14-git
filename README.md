@@ -1,2 +1,2 @@
 # 2025-01-14-git
-- Favorite food: pizza
+- My favorite food is pizza 
